@@ -1,2 +1,2 @@
 # CHAT
-Chat feito com node.js
+Chat feito com node.js e socket.io
